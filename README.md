@@ -26,17 +26,12 @@ A high-performance, production-ready Go cache library providing a unified interf
 
 ### Install the Package
 
-1. Set up private package access:
-```bash
-export GOPRIVATE=github.com/zeroxsolutions/banshee
-```
-
-2. Install the library:
+1. Install the library:
 ```bash
 go get github.com/zeroxsolutions/banshee
 ```
 
-3. Install specific implementations:
+2. Install specific implementations:
 ```bash
 # For Redis implementation
 go get github.com/zeroxsolutions/banshee/redis
