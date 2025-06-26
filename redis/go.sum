@@ -1,0 +1,14 @@
+github.com/bsm/ginkgo/v2 v2.12.0 h1:Ny8MWAHyOepLGlLKYmXG4IEkioBysk6GpaRTLC8zwWs=
+github.com/bsm/gomega v1.27.10 h1:yeMWxP2pV2fG3FgAODIY8EiRE3dy0aeFYt4l7wh6yKA=
+github.com/cespare/xxhash/v2 v2.2.0 h1:DC2CZ1Ep5Y4k3ZQ899DldepgrayRUGE6BBZ/cd9Cj44=
+github.com/cespare/xxhash/v2 v2.2.0/go.mod h1:VGX0DQ3Q6kWi7AoAeZDth3/j3BFtOZR5XLFGgcrjCOs=
+github.com/dgryski/go-rendezvous v0.0.0-20200823014737-9f7001d12a5f h1:lO4WD4F/rVNCu3HqELle0jiPLLBs70cWOduZpkS1E78=
+github.com/dgryski/go-rendezvous v0.0.0-20200823014737-9f7001d12a5f/go.mod h1:cuUVRXasLTGF7a8hSLbxyZXjz+1KgoB3wDUb6vlszIc=
+github.com/redis/go-redis/v9 v9.7.0 h1:HhLSs+B6O021gwzl+locl0zEDnyNkxMtf/Z3NNBMa9E=
+github.com/redis/go-redis/v9 v9.7.0/go.mod h1:f6zhXITC7JUJIlPEiBOTXxJgPLdZcA93GewI7inzyWw=
+github.com/zeroxsolutions/alex v0.0.1 h1:eDRkSfkED7mAj2AurscVwXHDxmG16HPKVUCqvlVF1w4=
+github.com/zeroxsolutions/alex v0.0.1/go.mod h1:hQgjEc1QRxCnoJO5SXz9DTWunSJGitrz1KgimgrTJ1U=
+github.com/zeroxsolutions/barbatos v0.0.1 h1:/4mRhek9c18GwqX8q3/YSgWjEuQ2ROSUEmMLFGWgaFA=
+github.com/zeroxsolutions/barbatos v0.0.1/go.mod h1:ymIvzDSYbxWPqn7xmzJcDYfei15CA87Y3FM+jS8gGb0=
+github.com/zeroxsolutions/strike v0.0.1 h1:56Mhk6W1Uz2V/wyB1EiBAURAQKCvjQUSW3xGxyXSjTM=
+github.com/zeroxsolutions/strike v0.0.1/go.mod h1:fIfn0vIly/znBBLSIWUI8+KPznfuRVaK9DDy/R8H6cA=
